@@ -1,0 +1,9 @@
+body {
+    background-image: url(imgs/newdice.jpg)
+}
+#mainheader{
+    color: white
+}
+#rollButton {
+    color: red
+}
